@@ -1,0 +1,22 @@
+div#popupContact {
+  position:absolute;
+  top:17%;
+  font-family: sans-serif
+}
+#abc {
+  width:100%;
+  height:100%;
+  opacity:.95;
+  top:0;
+  left:0;
+  position:fixed;
+  background-color:#313131;
+  overflow:auto;
+  z-index: 100;
+}
+.same-width {
+  width: 70px;
+}
+.recipe-link:hover {
+  cursor: pointer;
+}
